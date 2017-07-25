@@ -5,7 +5,7 @@
 
 # Awesome-Linux-Software
 
-1. [LuongVo](https://github.com/VoLuong)
+1. [LewisVo](https://github.com/LewisVo)
 2. [anewuser](https://github.com/anewuser)
 3. [nathanmusoke](https://github.com/nathanmusoke)
 4. [bpearson](https://github.com/bpearson)

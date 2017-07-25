@@ -6,9 +6,9 @@
 ![Tux](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/img/tux.png?raw=true)
 
 ## 介绍
-[Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 是由 [VoLuong](https://github.com/VoLuong) 发起并维护的 Linux 软件资源列表。该列表收集了许多在 Linux 平台下非常棒的软件、实用工具以及其它相关资料，方便 Linux 爱好者查阅。
+[Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 是由 [LewisVo](https://github.com/LewisVo) 发起并维护的 Linux 软件资源列表。该列表收集了许多在 Linux 平台下非常棒的软件、实用工具以及其它相关资料，方便 Linux 爱好者查阅。
 
-[Linux 优秀软件资源大全中文版](https://github.com/ChrisLeeGit/awesome-linux-software-cn) 则是依据 [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 翻译而来，方便 Linux 爱好者们查阅。欢迎 Star 或 Fork，也期待你的参与和贡献！此外，在第二部分，有一些比较好的推荐文章或者教程，希望在后期能够帮助翻译成中文。
+[Linux 优秀软件资源大全中文版](https://github.com/ChrisLeeGit/awesome-linux-software-cn) 则是依据 [Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software) 翻译而来，方便 Linux 爱好者们查阅。欢迎 Star 或 Fork，也期待你的参与和贡献！此外，在第二部分，有一些比较好的推荐文章或者教程，希望在后期能够帮助翻译成中文。
 
 另外一个中文版本请参见 [这里](https://github.com/alim0x/Awesome-Linux-Software-zh_CN)。之所以会出现两份翻译版本，主要是因为在开始前没有非常仔细地搜索 GitHub 以查找类似项目（其实我在翻译完成前后都找了下，但是确实没有发现那个项目）。**需要注意的是，该中文版本是基于原英文版本翻译的，但是更主要的是想在文档中添加一些更适合国人使用的应用或中文阅读资料。当然，这也需要更多国内的 Linux 爱好者帮助完善，谢谢！**
 
@@ -61,7 +61,6 @@
 - [CentOS](#centos)
 - [openSUSE](#opensuse)
 - [Ubuntu](#ubuntu)
-
 - [交流论坛](#交流论坛)
     - [Arch Linux 论坛](#arch-linux-论坛)
     - [CentOS 论坛](#centos-论坛)
@@ -74,6 +73,7 @@
 - [Linux Hacking 或开发](#linux-hacking-或开发)
 
 ***********
+
 - [贡献方式](#贡献方式)
 - [贡献者列表](#贡献者列表)
 
@@ -90,35 +90,35 @@
 - [Audacity](http://www.audacityteam.org/download/linux/) - 一款免费、开源、跨平台的音频录制和编辑软件。[![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
 - [Audio Recorder](https://launchpad.net/~audio-recorder/+archive/ubuntu/ppa) - Ubuntu ppa 中包含的一款简单的录音软件。 ![Freeware][Freeware Icon]
 - [Clementine](https://www.clementine-player.org/) - 支持播放许多种有损或无损格式的音频。 [![Open-Source Software][OSS Icon]](https://github.com/clementine-player/Clementine) ![Freeware][Freeware Icon]
-- [Cmus](https://cmus.github.io/) - cmus is a small, fast and powerful console music player for Unix-like operating systems.
+- [Cmus](https://cmus.github.io/) - cmus 是类 Unix 平台上的一款短小精悍的终端音乐播放器。
 - [Google Play Music](https://www.googleplaymusicdesktopplayer.com/) - 一款非官方但非常漂亮的跨平台的桌面播放器，用于播放来自 Google Play 的音乐。[![Open-Source Software][OSS Icon]](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) ![Freeware][Freeware Icon]
-- [Harmony](http://getharmony.xyz) - Music player with sleek interface & cloud compatibility. [![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony) ![Freeware][Freeware Icon]
+- [Harmony](http://getharmony.xyz) - Harmony 是一款界面时尚，兼容多种云端服务的音乐播放器。[![Open-Source Software][OSS Icon]](https://github.com/vincelwt/harmony) ![Freeware][Freeware Icon]
 - [Hydrogen](http://www.hydrogen-music.org/hcms/node/21) - GNU/Linux 平台下的高级电子鼓。![Freeware][Freeware Icon]
 - [K3b](http://www.k3b.org/) - Linux 平台下的 CD/DVD 刻录软件，为 KDE 环境优化过。[![Open-Source Software][OSS Icon]](https://github.com/KDE/k3b)![Freeware][Freeware Icon]
 - [Kid3Qt](https://apps.ubuntu.com/cat/applications/precise/kid3-qt/) - 用于编辑多种文件标签，例如：艺术家（artist）、唱片（album）、年份（year）以及某个唱片下所有 mp3 文件的流派（genre）。![Freeware][Freeware Icon]
 - [KxStudio](http://kxstudio.linuxaudio.org/) - KXStudio 是用于专业音频制作的各种应用程序和插件的集合。![Freeware][Freeware Icon]
-- [LMMS](https://lmms.io/download/#linux) - Making music on your PC by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more. [![Open-Source Software][OSS Icon]](https://github.com/LMMS/lmms)![Freeware][Freeware Icon]
+- [LMMS](https://lmms.io/download/#linux) - 数字音乐创作工具。[![Open-Source Software][OSS Icon]](https://github.com/LMMS/lmms)![Freeware][Freeware Icon]
 - [Lollypop](http://gnumdk.github.io/lollypop-web) - Lollypop 是一款全新的 GNOME 音乐播放器。 [![Open-Source Software][OSS Icon]](https://github.com/gnumdk/lollypop) ![Freeware][Freeware Icon]
-- [Lyricfier](https://github.com/emilioastarita/lyricfier) - a Spotify Lyrics alternative app. [![Open-Source Software][OSS Icon]](https://github.com/emilioastarita/lyricfier) ![Freeware][Freeware Icon]
+- [Lyricfier](https://github.com/emilioastarita/lyricfier) - 用于 Spotify 的歌词软件，会根据播放的歌曲自动通过网络匹配歌词。[![Open-Source Software][OSS Icon]](https://github.com/emilioastarita/lyricfier) ![Freeware][Freeware Icon]
 - [Mixxx](http://www.mixxx.org/download/) - 免费的 DJ 软件，让你随心所欲地进行现场混音，Traktor 名副其实的替代者。[![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
-- [Museek](http://museeks.io/) - A simple, clean and cross-platform music player. [![Open-Source Software][OSS Icon]](https://github.com/KeitIG/museeks) ![Freeware][Freeware Icon]
-- [Oceanaudio](http://www.ocenaudio.com/whatis) - ocenaudio is a cross-platform, easy to use, fast and functional audio editor. It is the ideal software for people who need to edit and analyze audio files.![Freeware][Freeware Icon]
+- [Museek](http://museeks.io/) - 简单易用的跨平台音乐播放器。[![Open-Source Software][OSS Icon]](https://github.com/KeitIG/museeks) ![Freeware][Freeware Icon]
+- [Oceanaudio](http://www.ocenaudio.com/whatis) - 一款简单实用的跨平台音频编辑器。对于需要编辑和分析音频文件的人来说非常理想。[Freeware][Freeware Icon]
 - [OSD Lyrics](https://aur.archlinux.org/packages/osdlyrics-git/) - 使用你最喜欢的媒体播放器显示歌词。[![Open-Source Software][OSS Icon]](https://github.com/PedroHLC/osdlyrics) ![Freeware][Freeware Icon]
-- [Parlatype](http://gkarsay.github.io/parlatype/) - GNOME audio player for transcription.  [![Open-Source Software][OSS Icon]](https://github.com/gkarsay/parlatype) ![Freeware][Freeware Icon]
-- [Pithos](https://pithos.github.io/) - A native pandora client for Linux  [![Open-Source Software][OSS Icon]](https://github.com/pithos/pithos) ![Freeware][Freeware Icon]
-- [PulseEffect](https://github.com/wwmm/pulseeffects) - Limiter, compressor, reverberation, equalizer and auto volume effects for Pulseaudio applications [![Open-Source Software][OSS Icon]](https://github.com/wwmm/pulseeffects) ![Freeware][Freeware Icon]
-- [Quod Libet](https://quodlibet.readthedocs.io) - GTK+ music player written with huge libraries in mind. Quod Libet supports search-based dynamic playlists, regular expressions, tagging, Replay Gain, podcasts & Internet radio. [![Open-Source Software][OSS Icon]](https://github.com/quodlibet/quodlibet) ![Freeware][Freeware Icon]
+- [Parlatype](http://gkarsay.github.io/parlatype/) - GNOME 下的音频录制应用。  [![Open-Source Software][OSS Icon]](https://github.com/gkarsay/parlatype) ![Freeware][Freeware Icon]
+- [Pithos](https://pithos.github.io/) - Linux 原生 [Pandaro](https://www.pandora.com) 客户端。[![Open-Source Software][OSS Icon]](https://github.com/pithos/pithos) ![Freeware][Freeware Icon]
+- [PulseEffect](https://github.com/wwmm/pulseeffects) - 脉冲音频应用：限幅、压缩、混响、均衡和自动音效。[![Open-Source Software][OSS Icon]](https://github.com/wwmm/pulseeffects) ![Freeware][Freeware Icon]
+- [Quod Libet](https://quodlibet.readthedocs.io) - 一款 GTK+ 音乐播放器，它支持基于搜索的动态播放列表、正则表达式、标签、回放增益、播客和网络广播等功能。[![Open-Source Software][OSS Icon]](https://github.com/quodlibet/quodlibet) ![Freeware][Freeware Icon]
 - [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - GNOME 音乐播放器。[![Open-Source Software][OSS Icon]](https://github.com/GNOME/rhythmbox) ![Freeware][Freeware Icon]
-- [Sayonara Player](https://sayonara-player.com/downloads.php) - Sayonara is a small, clear and fast audio player for Linux written in C++, supported by the Qt framework.[![Open-Source Software][OSS Icon]](https://sayonara-player.com/downloads.php#Source) ![Freeware][Freeware Icon]
-- [Soundconverter](http://soundconverter.org/) - leading audio file converter, SoundConverter aims to be simple to use, and very fast.[![Open-Source Software][OSS Icon]](https://launchpad.net/soundconverter/trunk/2.1.6) ![Freeware][Freeware Icon] 
+- [Sayonara Player](https://sayonara-player.com/downloads.php) - Sayonara 是一款使用 C++ 打造的 Linux 下的短小精悍的音乐播放器，支持 Qt 框架。[![Open-Source Software][OSS Icon]](https://sayonara-player.com/downloads.php#Source) ![Freeware][Freeware Icon]
+- [Soundconverter](http://soundconverter.org/) - 音频转换工具中的佼佼者，SoundConverter 的目标是做到更加高效易用。[![Open-Source Software][OSS Icon]](https://launchpad.net/soundconverter/trunk/2.1.6) ![Freeware][Freeware Icon] 
 - [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - GNOME 环境下的 CD 抓取工具 ![Freeware][Freeware Icon]
-- [Soundnode](http://www.soundnodeapp.com/) - An opensource SoundCloud app for desktop. [![Open-Source Software][OSS Icon]](https://github.com/Soundnode/soundnode-app) ![Freeware][Freeware Icon]
-- [Spotio](https://github.com/devinhalladay/spotio) - a Rdio-inspired light theme for the Spotify desktop app. [![Open-Source Software][OSS Icon]](https://github.com/devinhalladay/spotio) ![Freeware][Freeware Icon]
+- [Soundnode](http://www.soundnodeapp.com/) - 开源 SoundCloud 桌面应用。[![Open-Source Software][OSS Icon]](https://github.com/Soundnode/soundnode-app) ![Freeware][Freeware Icon]
+- [Spotio](https://github.com/devinhalladay/spotio) - 受 [Rdio](https://en.wikipedia.org/wiki/Rdio) 启发的轻量级主题，为 Spotify 桌面应用打造。[![Open-Source Software][OSS Icon]](https://github.com/devinhalladay/spotio) ![Freeware][Freeware Icon]
 - [Tomahawk](https://www.tomahawk-player.org/) -一种全新的音乐播放器，它将你所有的数据流、下载、云音乐存储、播放列表、电台等集结在一起。 [![Open-Source Software][OSS Icon]](https://github.com/tomahawk-player/tomahawk)![Freeware][Freeware Icon]
 - [网易云音乐](http://music.163.com/#/download) - 网易云音乐官方 Linux 客户端，免费易用，值得体验。![Freeware][Freeware Icon]
 
 ### 聊天客户端
-- [Caprine](https://sindresorhus.com/caprine) - Elegant Facebook Messenger desktop app. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/caprine) ![Freeware][Freeware Icon]
+- [Caprine](https://sindresorhus.com/caprine) - 一款漂亮的 Facebook Messenger 桌面应用。[![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/caprine) ![Freeware][Freeware Icon]
 - [Chatty](http://chatty.github.io/) - Chatty is a Twitch chat client for everyone who wants to try something new and different from the webchat, but doesn't want the complexity of an IRC client or miss out on the Twitch specific features.[![Open-Source Software][OSS Icon]](https://github.com/chatty/chatty) ![Freeware][Freeware Icon]
 - [Cutegram](http://aseman.co/en/products/cutegram/) - Offers more features than the official Telegram app [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Cutegram) ![Freeware][Freeware Icon]
 - [Discord](https://discordapp.com/) - All-in-one voice and text chat for gamers that’s free, secure, and works on both your desktop and phone. ![Freeware][Freeware Icon]
