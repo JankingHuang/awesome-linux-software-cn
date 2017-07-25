@@ -1,7 +1,7 @@
 # Contributors
 
 # awesome-linux-software-cn
-1. [ChrisLeeGit (Me)](https://github.com/ChrisLeeGit/)
+1. [0xE8551CCB (Me)](https://github.com/0xE8551CCB/)
 
 # Awesome-Linux-Software
 
@@ -37,7 +37,7 @@
 30. [stelariusinfinitek](https://github.com/stelariusinfinitek)
 31. [tnga](https://github.com/tnga)
 32. [hg8](https://github.com/hg8)
-33. [ChrisLeeGit](https://github.com/ChrisLeeGit)
+33. [0xE8551CCB](https://github.com/0xE8551CCB)
 34. [alim0x](https://github.com/alim0x)
 35. [Spacebody](https://github.com/Spacebody)
 36. *Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com for many suggestions and compliments*
