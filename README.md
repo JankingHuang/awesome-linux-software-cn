@@ -102,7 +102,7 @@
 - [Lyricfier](https://github.com/emilioastarita/lyricfier) - 用于 Spotify 的歌词软件，会根据播放的歌曲自动通过网络匹配歌词。[![Open-Source Software][OSS Icon]](https://github.com/emilioastarita/lyricfier) ![Freeware][Freeware Icon]
 - [Mixxx](http://www.mixxx.org/download/) - 免费的 DJ 软件，让你随心所欲地进行现场混音，Traktor 名副其实的替代者。[![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
 - [Museek](http://museeks.io/) - 简单易用的跨平台音乐播放器。[![Open-Source Software][OSS Icon]](https://github.com/KeitIG/museeks) ![Freeware][Freeware Icon]
-- [Oceanaudio](http://www.ocenaudio.com/whatis) - 一款简单实用的跨平台音频编辑器。对于需要编辑和分析音频文件的人来说非常理想。[Freeware][Freeware Icon]
+- [Oceanaudio](http://www.ocenaudio.com/whatis) - 一款简单实用的跨平台音频编辑器。对于需要编辑和分析音频文件的人来说非常理想。![Freeware][Freeware Icon]
 - [OSD Lyrics](https://aur.archlinux.org/packages/osdlyrics-git/) - 使用你最喜欢的媒体播放器显示歌词。[![Open-Source Software][OSS Icon]](https://github.com/PedroHLC/osdlyrics) ![Freeware][Freeware Icon]
 - [Parlatype](http://gkarsay.github.io/parlatype/) - GNOME 下的音频录制应用。  [![Open-Source Software][OSS Icon]](https://github.com/gkarsay/parlatype) ![Freeware][Freeware Icon]
 - [Pithos](https://pithos.github.io/) - Linux 原生 [Pandaro](https://www.pandora.com) 客户端。[![Open-Source Software][OSS Icon]](https://github.com/pithos/pithos) ![Freeware][Freeware Icon]
