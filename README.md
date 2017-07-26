@@ -1,20 +1,20 @@
 # Linux 优秀软件资源大全中文版
 ---------------------------
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ChrisLeeGit/awesome-linux-software-cn)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/0xE8551CCB/awesome-linux-software-cn)
 
 ![Tux](https://github.com/LewisVo/Awesome-Linux-Software/blob/master/img/tux.png?raw=true)
 
 ## 介绍
-[Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 是由 [LewisVo](https://github.com/LewisVo) 发起并维护的 Linux 软件资源列表。该列表收集了许多在 Linux 平台下非常棒的软件、实用工具以及其它相关资料，方便 Linux 爱好者查阅。
+[Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software) 是由 [LewisVo](https://github.com/LewisVo) 发起并维护的 Linux 软件资源列表。该列表收集了许多在 Linux 平台下非常棒的软件、实用工具以及其它相关资料，方便 Linux 爱好者查阅。
 
-[Linux 优秀软件资源大全中文版](https://github.com/ChrisLeeGit/awesome-linux-software-cn) 则是依据 [Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software) 翻译而来，方便 Linux 爱好者们查阅。欢迎 Star 或 Fork，也期待你的参与和贡献！此外，在第二部分，有一些比较好的推荐文章或者教程，希望在后期能够帮助翻译成中文。
+[Linux 优秀软件资源大全中文版](https://github.com/0xE8551CCB/awesome-linux-software-cn) 则是依据 [Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software) 翻译而来，方便 Linux 爱好者们查阅。欢迎 Star 或 Fork，也期待你的参与和贡献！此外，在第二部分，有一些比较好的推荐文章或者教程，希望在后期能够帮助翻译成中文。
 
 另外一个中文版本请参见 [这里](https://github.com/alim0x/Awesome-Linux-Software-zh_CN)。之所以会出现两份翻译版本，主要是因为在开始前没有非常仔细地搜索 GitHub 以查找类似项目（其实我在翻译完成前后都找了下，但是确实没有发现那个项目）。**需要注意的是，该中文版本是基于原英文版本翻译的，但是更主要的是想在文档中添加一些更适合国人使用的应用或中文阅读资料。当然，这也需要更多国内的 Linux 爱好者帮助完善，谢谢！**
 
-本文档已使用 [GitBook](https://chrisleegit.gitbooks.io/awesome-linux-software-cn/content/) 发布了，因此你可以在 [GitBook](https://chrisleegit.gitbooks.io/awesome-linux-software-cn/content/) 网站获得更佳的阅读体验。此外，你也可以下载 [PDF](https://www.gitbook.com/download/pdf/book/chrisleegit/awesome-linux-software-cn) 或 [ePub](https://www.gitbook.com/download/epub/book/chrisleegit/awesome-linux-software-cn) 格式的文档，以便离线阅读。
+本文档已使用 [GitBook](https://0xE8551CCB.gitbooks.io/awesome-linux-software-cn/content/) 发布了，因此你可以在 [GitBook](https://0xE8551CCB.gitbooks.io/awesome-linux-software-cn/content/) 网站获得更佳的阅读体验。此外，你也可以下载 [PDF](https://www.gitbook.com/download/pdf/book/0xE8551CCB/awesome-linux-software-cn) 或 [ePub](https://www.gitbook.com/download/epub/book/0xE8551CCB/awesome-linux-software-cn) 格式的文档，以便离线阅读。
 
-**提示**：该文档会不间断地更新补充，推荐到 GitHub 项目主页 [Linux 优秀软件资源大全中文版](https://github.com/ChrisLeeGit/awesome-linux-software-cn) `https://github.com/chrisleegit/awesome-linux-software-cn` 获取其最新版本。
+**提示**：该文档会不间断地更新补充，推荐到 GitHub 项目主页 [Linux 优秀软件资源大全中文版](https://github.com/0xE8551CCB/awesome-linux-software-cn) `https://github.com/0xE8551CCB/awesome-linux-software-cn` 获取其最新版本。
 
 -------------------------------
 ## 目录
@@ -244,6 +244,7 @@
 - [Emacs](https://www.gnu.org/software/emacs/) - 一款支持扩展、可定制、免费自由的文本编辑器，其实它还有更多特性。 [![Open-Source Software][OSS Icon]](https://github.com/emacs-mirror/emacs)![Freeware][Freeware Icon]
 - [Geany](https://www.geany.org/) - Geany 是一个使用 GTK+ 工具包构建的文本编辑器，它拥有集成开发环境的基础功能。它是小而快的集成开发环境，只依赖几个少量的其它软件包。 [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git)![Freeware][Freeware Icon]
 - [Gedit](https://wiki.gnome.org/Apps/Gedit) -Gedit 是 GNOME 文本编辑器。由于它的目标是简单易用，所以他是一款非常强大而通用的文本编辑器。![Freeware][Freeware Icon]
+- [Goland](https://www.jetbrains.com/go/) - Gogland 是 JetBrains 打造的新的商业 IDE 的名称，致力于提供一个高效的 Go 开发环境，集成了一些帮助编码和 Go 语言专属工具。
 - [Kakoune](http://kakoune.org/) - 深受 vim 启发而开发的一款代码编辑器，模式类似于 VI。[(Github)](https://github.com/mawww/kakoune)![Freeware][Freeware Icon]
 - [Kate](https://kate-editor.org/get-it/) - Kate 是一个支持多种文档格式的编辑器，自从 KDE 2.2 以后就作为 KDE 的一部分了。[![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/)![Freeware][Freeware Icon]
 - [Lighttable](http://lighttable.com/) - 下一代代码编辑器！支持在线编码。 ![Freeware][Freeware Icon]
@@ -656,7 +657,7 @@
 - [Linux 是什么](https://www.linux.com/what-is-linux)
 - [基本 Linux 术语](http://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
 - [挑选最适合你的发行版](http://i.imgur.com/TV21DgN.jpg)
-- [在安装 Ubuntu 后要做的 39 件事](https://www.lifewire.com/things-to-do-installing-ubuntu-2200611)
+- [在安装 Ubuntu 后要做的 38 件事](https://www.lifewire.com/things-to-do-installing-ubuntu-2200611)
 
 
 ### Arch Linux
@@ -780,21 +781,21 @@
 - [Linux 内核模块编程指南（PDF）](http://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
 
 ## 贡献方式
-1. **校对**：你可以参考原文档 [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software)，帮助校对翻译。比如，你可以在 [issues](https://github.com/ChrisLeeGit/awesome-linux-software-cn/issues) 中提出改进后的翻译结果；或者，你也可以 Fork 到自己的仓库，进行校对和修改，然后提交 Pull Request。
+1. **校对**：你可以参考原文档 [Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software)，帮助校对翻译。比如，你可以在 [issues](https://github.com/0xE8551CCB/awesome-linux-software-cn/issues) 中提出改进后的翻译结果；或者，你也可以 Fork 到自己的仓库，进行校对和修改，然后提交 Pull Request。
 
-2. **翻译**：由于原始文档 [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 会不断地更新，所以你可以在 Fork 后，帮助翻译新添加的内容，并提交 Pull Request。
+2. **翻译**：由于原始文档 [Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software) 会不断地更新，所以你可以在 Fork 后，帮助翻译新添加的内容，并提交 Pull Request。
 
 3. **新增**：当然啦，你也可以推荐一些列表中没有的应用程序；或者你也可以添加一些不错阅读材料（比如教程等）。以下为添加新的应用程序步骤：
     1. 请先 Fork 到你的个人仓库，然后进行编辑。
     2. 给出你推荐的应用名称，并给出它的**主页**或者安装**指南**链接。
     3. 你需要为你推荐的应用写上**简介**，并添加小图标（![开源软件][OSS Icon] 代表开源软件，请在后面给出开源代码仓库的链接；![免费软件][Freeware Icon] 则代表免费软件）。
     4. 将你推荐的应用添加到合适的分类标题下，如果没有合适的分类标题，你可以创建一个新的分类标题（完了记得更新目录）。
-    5. 请确保新增的条目在合适的分类标题下，并尽量保证排序正确（现在，你可以通过脚本 [asort.py](https://github.com/ChrisLeeGit/awesome-linux-software-cn/tree/master/auto_sort) 实现自动排序，只需将条目添加到合适分类标题下即可:)），这样方便查阅。一切完毕后，请提交 Pull Request。
+    5. 请确保新增的条目在合适的分类标题下，并尽量保证排序正确（现在，你可以通过脚本 [asort.py](https://github.com/0xE8551CCB/awesome-linux-software-cn/tree/master/auto_sort) 实现自动排序，只需将条目添加到合适分类标题下即可:)），这样方便查阅。一切完毕后，请提交 Pull Request。
 
-4. **建议**：如果合适的话，你可以先向  [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 提交 PR，然后再将对应的中文内容添加到本文档中，并提交 PR，从而尽可能保持同步。**最后，也希望你能多推荐一些更适合国人使用的应用程序和资料，谢谢！**
+4. **建议**：如果合适的话，你可以先向  [Awesome-Linux-Software](https://github.com/LewisVo/Awesome-Linux-Software) 提交 PR，然后再将对应的中文内容添加到本文档中，并提交 PR，从而尽可能保持同步。**最后，也希望你能多推荐一些更适合国人使用的应用程序和资料，谢谢！**
 
 ## 贡献者列表
-所有贡献人员列表请参见：[CONTRIBUTORS.md](https://github.com/ChrisLeeGit/awesome-linux-software-cn/blob/master/CONTRIBUTORS.md)
+所有贡献人员列表请参见：[CONTRIBUTORS.md](https://github.com/0xE8551CCB/awesome-linux-software-cn/blob/master/CONTRIBUTORS.md)
 
 
 ## 许可协议
