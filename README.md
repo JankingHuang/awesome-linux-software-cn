@@ -210,7 +210,7 @@
 - [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - 一个让人喜爱的由社区驱动的框架，专门用于管理你的 zsh 配置。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]]( https://github.com/robbyrussell/oh-my-zsh)
 - [Pencil](http://pencil.evolus.vn/) - 一款开源并支持全平台的原型开发工具。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/evolus/pencil)
 - [Pick](http://kryogenix.org/code/pick/) - 简单的颜色拾取器。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]]( https://github.com/stuartlangridge/ColourPicker)
-- [Postgresql](https://www.postgresql.org/download/) - PostgreSQL 是一个强大、开源的**对象关系型（object-relational）**数据库系统。![Freeware][Freeware Icon]
+- [Postgresql](https://www.postgresql.org/download/) - PostgreSQL 是一个强大、开源的 __对象关系型（object-relational）__ 数据库系统。![Freeware][Freeware Icon]
 - [Postman](https://www.getpostman.com) - Postman 可以帮助我们快速地测试 API。![Freeware][Freeware Icon]
 - [PyCharm](https://www.jetbrains.com/pycharm/) - 强大的 Python IDE。 ![Freeware][Freeware Icon]
 - [QT Creator](https://www.qt.io/ide/) - 全能型跨平台集成开发环境，用于轻松地创建连接设备、用户界面（UI）和应用程序。![Freeware][Freeware Icon]
