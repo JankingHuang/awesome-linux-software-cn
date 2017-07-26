@@ -363,7 +363,7 @@
 - [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Shotwell 是 GNOME 3 中的照片管理器。![Freeware][Freeware Icon]
 - [StopMotion](http://linuxstopmotion.org/) - StopMotion 是 Linux 平台下一款用于创建定格动画的免费开源应用。它可以帮你捕获并编辑你的动画帧并能将动画帧导出为一个单独的文件。![Freeware][Freeware Icon]
 - [Synfig Studio](http://www.synfig.org/) - 开源 2D 动画软件。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/synfig/synfig)
-- [Vectr](https://vectr.com/) - Vectr 是一款免费的图像软件，创建向量图既简单又直观。这是一款简单又强大的跨 Web 和多平台的工具，可以让你的设计变为现实。![Freeware]
+- [Vectr](https://vectr.com/) - Vectr 是一款免费的图像软件，创建向量图既简单又直观。这是一款简单又强大的跨 Web 和多平台的工具，可以让你的设计变为现实。![Freeware][Freeware Icon]
 - [Vidcutter](http://vidcutter.ozmartians.com/) - 跨平台的基于 Qt5 的视频应用，可以快速剪裁/分割以及合并/连接视频。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/ozmartian/vidcutter)
 - [Xara Extreme](http://www.xaraxtreme.org/) - Xara Xtreme 是一个为 Unix 平台（包括 Linux, FreeBSD）打造的强大、通用型图形程序。![Freeware][Freeware Icon]
 
@@ -417,7 +417,7 @@
 - [Gpick](http://www.gpick.org/) - Gpick 允许你从桌面上任何位置采样任何颜色，此外它还提供了一些其它的高级功能。 [![Open-Source Software][OSS Icon]](https://github.com/thezbyg/gpick) ![Freeware][Freeware Icon]
 - [My Todo](https://github.com/mohamed-aziz/mytodo) - My Todo 是一款开源任务清单程序，它可以让你，让用户掌控一切。[![Open-Source Software][OSS Icon]](https://github.com/mohamed-aziz/mytodo) ![Freeware][Freeware Icon]
 - [My Weather Indicator](http://ubuntuhandbook.org/index.php/2016/04/weather-indicator-desktop-widget-ubuntu-16-04/) - Ubuntu平台下的天气指示器小部件。![Freeware][Freeware Icon]
-- [NixNote](https://sourceforge.net/projects/nevernote/) - An open source client for Evernote. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/nevernote/code/ci/master/tree/) ![Freeware][Freeware Icon]
+- [NixNote](https://sourceforge.net/projects/nevernote/) - 开源的 Evernote 客户端。[![Open-Source Software][OSS Icon]](https://sourceforge.net/p/nevernote/code/ci/master/tree/) ![Freeware][Freeware Icon]
 - [Notepadqq](http://notepadqq.altervista.org/wp/) - Notepadqq 是 Linux 桌面下类似于 Notepad++ 的编辑器。[![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) ![Freeware][Freeware Icon]
 - [Notes](http://www.get-notes.com/) - Linux 平台下简洁的笔记应用。[![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
 - [Papyrus](http://aseman.co/en/products/papyrus/) - Papyrus 是一个不同的笔记管理器，专注于安全和更友好的用户界面。Papyrus 正在尝试为用户提供更加易用智能的用户界面。 [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Papyrus) ![Freeware][Freeware Icon]
@@ -479,7 +479,7 @@
 ### 终端
 - [GnomeTerminal](https://help.gnome.org/users/gnome-terminal/stable/) - Linux 平台下广泛预装的终端模拟器。![Freeware][Freeware Icon]
 - [Guake](http://guake.org/) - Guake 是 Gnome 桌面环境下的一款“可伸缩”的终端。![Freeware][Freeware Icon]
-- [Hyper](https://hyper.is/) - A terminal built on web technologies.[![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper)![Freeware][Freeware Icon]
+- [Hyper](https://hyper.is/) - 基于 Web 技术构建的终端。[![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper)![Freeware][Freeware Icon]
 - [Konsole](https://konsole.kde.org/) - KDE 桌面环境下最好的终端。![Freeware][Freeware Icon]
 - [RXVT-Unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - RXVT-Unicode fork 自著名的终端模拟器。[![Open-Source Software][OSS Icon]](rxvt.http://cvs.schmorp.de/rxvt-unicode/)![Freeware][Freeware Icon]
 - [RXVT](http://rxvt.sourceforge.net/) - X11 终端模拟器，xterm 流行的替代者。[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/rxvt/)![Freeware][Freeware Icon]
@@ -503,7 +503,7 @@
 - [Cheat](https://github.com/chrisallenlane/cheat) - Cheat 可以让你在命令行下创建并查看交互式的 cheatsheets 的工具，简化了 `man` 工具。[![Open-Source Software][OSS Icon]](https://github.com/chrisallenlane/cheat)![Freeware][Freeware Icon]
 - [Clonezilla](http://clonezilla.org/) - Clonezilla 是一个类似于 True Image®  和 Norton Ghost® 的分区和磁盘映像克隆程序。![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](http://clonezilla.org/related-links/)
 - [Convertall](https://sourceforge.net/projects/convertall/) - 单位换算软件。![Freeware][Freeware Icon]
-- [CPU-G](http://www.omgubuntu.co.uk/2016/09/monitor-battery-life-ubuntu-cpu-g) - Easy monitoring the battery life of your Ubuntu laptop. ![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://launchpad.net/cpug)
+- [CPU-G](http://www.omgubuntu.co.uk/2016/09/monitor-battery-life-ubuntu-cpu-g) - 轻松地监控里的 Ubuntu 笔记本电池状态。![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://launchpad.net/cpug)
 - [Curlew](https://github.com/chamfay/Curlew) - 一款 GNOME 桌面下的媒体转换器。![Freeware][Freeware Icon][![Open-Source Software][OSS Icon]](https://github.com/chamfay/Curlew)
 - [EasyStroke](https://github.com/thjaeger/easystroke/wiki#download) - Easystroke 是 X11 下的鼠标手势识别软件（很不错，个人也很推荐）。[![Open-Source Software][OSS Icon]](https://github.com/thjaeger/easystroke) ![Freeware][Freeware Icon]
 - [Enpass](https://www.enpass.io/) - Enpass 通过安全地管理你的密码和重要信息让你的生活更加轻松。![Freeware][Freeware Icon]
@@ -532,7 +532,7 @@
 - [Pulse Audio](https://wiki.ubuntu.com/PulseAudio) - 使用自定义配置提升 Linux 音频质量。![Freeware][Freeware Icon]
 - [Remarkable](https://remarkableapp.github.io/) - Ubuntu/Linux 下最佳 Markdown 编辑器。![Freeware][Freeware Icon]
 - [Remmina](http://www.remmina.org/wp/) - Linux 和 其它 Unix 系统平台下的一款功能丰富的远程桌面应用。[![Open-Source Software][OSS Icon]](https://github.com/FreeRDP/Remmina) ![Freeware][Freeware  Icon]
-- [Stacer](https://github.com/oguzhaninan/Stacer) - Ubuntu System Optimizer [![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Stacer) ![Freeware][Freeware Icon]
+- [Stacer](https://github.com/oguzhaninan/Stacer) - Ubuntu 系统优化工具。[![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Stacer) ![Freeware][Freeware Icon]
 - [Sushi](https://github.com/GNOME/sushi) - Sushi 是 Nautilus 文件管理器用的快速预览程序，支持多种格式文件快速预览（本人比较喜欢的一款小工具）。[![Open-Source Software][OSS Icon]](https://github.com/GNOME/sushi) ![Freeware][Freeware Icon]
 - [SympleScreenRecorder](https://launchpad.net/~maarten-baert/+archive/ubuntu/simplescreenrecorder/) - SimpleScreenRecorder 是一款功能丰富的屏幕录制器，支持 X11 和 OpenGL。它拥有基于 Qt 的用户界面。[![Open-Source Software][OSS Icon]](https://code.launchpad.net/~maarten-baert) ![Freeware][Freeware Icon]
 - [Synaptic](http://www.nongnu.org/synaptic/) - Synaptic 是图形化 APT 包管理程序（不想使用命令行安装程序的话，推荐使用）。![Freeware][Freeware Icon]
