@@ -244,7 +244,7 @@
 - [Emacs](https://www.gnu.org/software/emacs/) - 一款支持扩展、可定制、免费自由的文本编辑器，其实它还有更多特性。 [![Open-Source Software][OSS Icon]](https://github.com/emacs-mirror/emacs)![Freeware][Freeware Icon]
 - [Geany](https://www.geany.org/) - Geany 是一个使用 GTK+ 工具包构建的文本编辑器，它拥有集成开发环境的基础功能。它是小而快的集成开发环境，只依赖几个少量的其它软件包。 [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git)![Freeware][Freeware Icon]
 - [Gedit](https://wiki.gnome.org/Apps/Gedit) -Gedit 是 GNOME 文本编辑器。由于它的目标是简单易用，所以他是一款非常强大而通用的文本编辑器。![Freeware][Freeware Icon]
-- [Goland](https://www.jetbrains.com/go/) - Gogland 是 JetBrains 打造的新的商业 IDE 的名称，致力于提供一个高效的 Go 开发环境，集成了一些帮助编码和 Go 语言专属工具。
+- [Gogland](https://www.jetbrains.com/go/) - Gogland 是 JetBrains 打造的新的商业 IDE 的名称，致力于提供一个高效的 Go 开发环境，集成了一些帮助编码和 Go 语言专属工具。
 - [Kakoune](http://kakoune.org/) - 深受 vim 启发而开发的一款代码编辑器，模式类似于 VI。[(Github)](https://github.com/mawww/kakoune)![Freeware][Freeware Icon]
 - [Kate](https://kate-editor.org/get-it/) - Kate 是一个支持多种文档格式的编辑器，自从 KDE 2.2 以后就作为 KDE 的一部分了。[![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/)![Freeware][Freeware Icon]
 - [Lighttable](http://lighttable.com/) - 下一代代码编辑器！支持在线编码。 ![Freeware][Freeware Icon]
