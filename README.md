@@ -357,7 +357,7 @@
 - [Pinta](https://pinta-project.com/pintaproject/pinta/) - Pinta 是一个免费、开源的绘画和图片编辑应用。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://pinta-project.com/pintaproject/pinta/contribute)
 - [Pitivi](http://www.pitivi.org/) - 是一个免费的视频编辑器，拥有一个美丽直观的用户界面，一个整洁的代码库和很棒的社区。![Freeware][Freeware Icon]
 - [Radiance](http://www.radiance-online.org/) - Radiance 是一个验证照明的仿真工具。![Freeware][Freeware Icon]
-- [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App.![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/terkelg/ramme)
+- [Ramme](https://github.com/terkelg/ramme) - 非官方的 Instagram 桌面应用。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/terkelg/ramme)
 - [Rapid Photo Downloader](http://damonlynch.net/rapid/download.html) - Rapid Photo Downloader 让你轻松地从相机或者智能手机中导入照片。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://launchpad.net/rapid/pyqt/0.9.0b2)
 - [RawTherapee](http://rawtherapee.com/) - 一个好看但很少有人知道的照片编辑应用。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
 - [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Shotwell 是 GNOME 3 中的照片管理器。![Freeware][Freeware Icon]
