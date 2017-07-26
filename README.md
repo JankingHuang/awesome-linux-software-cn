@@ -248,7 +248,6 @@
 - [Kakoune](http://kakoune.org/) - 深受 vim 启发而开发的一款代码编辑器，模式类似于 VI。[(Github)](https://github.com/mawww/kakoune)![Freeware][Freeware Icon]
 - [Kate](https://kate-editor.org/get-it/) - Kate 是一个支持多种文档格式的编辑器，自从 KDE 2.2 以后就作为 KDE 的一部分了。[![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/)![Freeware][Freeware Icon]
 - [Lighttable](http://lighttable.com/) - 下一代代码编辑器！支持在线编码。 ![Freeware][Freeware Icon]
-- [Lighttable](http://lighttable.com/) - The next generation code editor! Support live coding. ![Freeware][Freeware Icon]
 - [Spacemacs](http://spacemacs.org) - 社区驱动的 Emacs 发行版。[![Open-Source Software][OSS Icon]](https://github.com/syl20bnr/spacemacs)![Freeware][Freeware Icon]
 - [Sublime](https://www.sublimetext.com/) - 一直以来都是最棒的文本编辑器之一。![Freeware][Freeware Icon]
 - [Textadept](https://foicica.com/textadept) - 为程序员们准备的极简主义风格的文本编辑器，可以使用 Lua 语言扩展它的功能。[![Open-Source Software][OSS Icon]](https://foicica.com/hg/textadept)![Freeware][Freeware Icon]
