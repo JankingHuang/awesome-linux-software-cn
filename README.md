@@ -118,6 +118,7 @@
 - [网易云音乐](http://music.163.com/#/download) - 网易云音乐官方 Linux 客户端，免费易用，值得体验。![Freeware][Freeware Icon]
 
 ### 聊天客户端
+- [Wine--QQ-Tim](https://github.com/askme765cs/Wine-QQ-TIM) - wine版的QQ和TIM，下载wine和应用包后直接打开应用包可用。
 - [Caprine](https://sindresorhus.com/caprine) - 一款漂亮的 Facebook Messenger 桌面应用。[![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/caprine) ![Freeware][Freeware Icon]
 - [Chatty](http://chatty.github.io/) - Chatty 是一款 Twitch 客户端，相对其它 IRC 客户端，它没有那么复杂但又不失 Twitch 特色，对于喜欢尝鲜的用户不妨试试。[![Open-Source Software][OSS Icon]](https://github.com/chatty/chatty) ![Freeware][Freeware Icon]
 - [Cutegram](http://aseman.co/en/products/cutegram/) - 比官方 Telegram 应用提供了更多功能。[![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Cutegram) ![Freeware][Freeware Icon]
@@ -142,6 +143,7 @@
 - [Wire](https://wire.com/en/) - Wire 为你的沟通保驾护航，安全无忧。[![Open-Source Software][OSS Icon]](https://github.com/wireapp) ![Freeware][Freeware Icon]
 
 ### 数据备份与恢复
+- [Veracrypt](https://veracrypt.codeplex.com/) - 支持多平台的硬盘加密工具，可以整个分区加密，也可以单个文件加密。
 - [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - 一个很棒的数据备份工具。[![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) ![Freeware][Freeware Icon]
 - [Deja Dup](https://www.linux.com/learn/total-system-backup-and-recall-deja-dup) - 内建加密功能的简易备份工具。[![Open-Source Software][OSS Icon]](https://launchpad.net/deja-dup)![Freeware][Freeware Icon]
 - [Duplicity](http://duplicity.nongnu.org/) - Duplicity 会通过生成加密的 tar 格式卷备份你的目录，并将它们上传到远程或本地文件服务器。[![Open-Source Software][OSS Icon]](https://launchpad.net/duplicity) ![Freeware][Freeware Icon]
@@ -151,6 +153,7 @@
 - [System Rescue CD](http://www.system-rescue-cd.org/SystemRescueCd_Homepage) - SystemRescueCd 是一个 Linux 系统救援盘，可以是可引导的 CD-ROM 或者 USB 棒，可以用它来做系统管理或者在系统崩溃后进行修复。 ![Freeware][Freeware Icon]
 - [Test Disk](http://www.cgsecurity.org/wiki/TestDisk) - TestDisk 是一款强大而又免费的数据恢复软件！它的主要目的就是当由于软件故障而导致某些问题发生时，帮助恢复丢失的分区并且/或者让非启动盘再次可引导。![Freeware][Freeware Icon]
 - [Timeshift](https://launchpad.net/timeshift) - TimeShift 是一个系统恢复实用工具，它使用 rsync 和硬链接（hard-link）为系统做增量快照。我们可以在日后恢复这些快照，从而撤销所有在快照后所做的任何修改。我们可以手动或者使用调度任务每隔一段时间自动生成快照。![Freeware][Freeware Icon]
+- [Unetbootin](https://unetbootin.github.io/) - 一款图形化轻量的系统盘制作工具。
 
 ### 桌面定制
 - [Adapta Theme](https://github.com/tista500/Adapta) - 一款自适应的 Gtk+ 主题，基于 Google Material 设计风格。 ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
@@ -184,6 +187,7 @@
 - [Code::Blocks](http://www.codeblocks.org/) - Code::Blocks 是免费的 C, C++ 和 Fortran 集成开发环境，它可以满足开发者非常苛刻的需求。它被设计为具有很好的扩展性以及完全可配置。![Freeware][Freeware Icon]
 - [Codelite](http://codelite.org/) - 一个免费、开源、跨平台的 C, C++, PHP 和 Node.js 集成开发环境。![Freeware][Freeware Icon]
 - [DBeaver](http://dbeaver.jkiss.org/) - 支持多平台、多种数据库的通用数据库客户端。[![Open-Source Software][OSS Icon]](https://github.com/serge-rider/dbeaver/) ![Freeware][Freeware Icon]
+- [Robo 3T](https://robomongo.org/) - 图形化的mongodb客户端。
 - [Eclipse](https://eclipse.org/ide/) - Eclipse 是著名的 Java 集成开发环境，但是 C/C++ 以及 PHP 版本的 Eclipse 也同样非常棒。![Freeware][Freeware Icon]
 - [Fisherman](https://github.com/fisherman/fisherman) - Fish shell 上的一款插件。[![Open-Source Software][OSS Icon]](https://github.com/fisherman/fisherman) ![Freeware][Freeware Icon]
 - [Fish](https://fishshell.com/) - 智能、用户友好的命令行 shell。 [![Open-Source Software][OSS Icon]](https://github.com/fish-shell/fish-shell) ![Freeware][Freeware Icon]
@@ -223,6 +227,8 @@
 - [Wireshark](https://www.wireshark.org/) - Wireshark 是一款世界知名的网络协议分析工具，它可以让从微观层面看到你的网络正在发生什么。事实上，它也是许多企业和教育机构的标准。
 - [Zeal](https://zealdocs.org/) - Zeal 是一款线下开发文档浏览器。[![Open-Source Software][OSS Icon]](https://github.com/zealdocs/zeal)![Freeware][Freeware Icon]
 - [Zsh](http://www.zsh.org/) - 一款非常强大的 Shell。 [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
+- [Cacher](https://www.cacher.io/) - Cacher是一款gist的编辑工具，可以在保存后直接同步到gist。
+- [gisto](https://www.gistoapp.com/) - gisto同样是一款gist的编辑工具。
 
 ### 电子书
 - [Buka](https://github.com/oguzhaninan/Buka/releases) - 电子书管理器。[![Open-Source Software][OSS Icon]](https://github.com/oguzhaninan/Buka) ![Freeware][Freeware Icon]
@@ -387,6 +393,10 @@
 ### 办公
 - Gummi [gtk2](https://github.com/alexandervdm/gummi)|[gtk3](https://github.com/aitjcize/Gummi) - 支持模板、拼写检查和向导的简易 LaTeX 编辑器。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/alexandervdm/gummi)
 - [bcloud](https://github.com/LiuLang/bcloud) - bcloud 是百度网盘的 Linux 桌面客户端，支持多种主流的 Linux 发行版。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/LiuLang/bcloud)
+- [megasync](https://mega.nz/sync) - mega网盘官方图形同步应用
+- [megacmd](https://github.com/meganz/MEGAcmd) - mega网盘官方命令行管理工具
+- [坚果云](https://www.jianguoyun.com/s/downloads) - 坚果云官方图形管理工具
+- [StackStorage](https://www.transip.nl/stack/) - TransIP提供的云盘服务，可以通过邀请码获取免费云盘空间。官方的应该大概是owncloud和nextcloud魔改而来 
 - [Caligra Office](https://www.calligra.org/) - 提供了一个包含 8 款应用的综合系列，可以满足办公、图像和管理需求。![Freeware][Freeware Icon]
 - [GnuCash](https://www.gnucash.org/) - GnuCash 是一款实现了复试记账系统的免费会计软件。它最初旨在开发兼容 Intuit（Inc.'s Quicken application，公司提升效率应用） 类似的功能，但它针对小型企业会计提供了一些特有功能。 ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Gnucash/)
 - [KMyMoney](https://kmymoney.org/) - KMyMoney 是 KDE 环境下的个人金融管家。它和微软 Money 和 Quiken 应用操作类似。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/KDE/kmymoney)
@@ -417,7 +427,11 @@
 - [Gpick](http://www.gpick.org/) - Gpick 允许你从桌面上任何位置采样任何颜色，此外它还提供了一些其它的高级功能。 [![Open-Source Software][OSS Icon]](https://github.com/thezbyg/gpick) ![Freeware][Freeware Icon]
 - [My Todo](https://github.com/mohamed-aziz/mytodo) - My Todo 是一款开源任务清单程序，它可以让你，让用户掌控一切。[![Open-Source Software][OSS Icon]](https://github.com/mohamed-aziz/mytodo) ![Freeware][Freeware Icon]
 - [My Weather Indicator](http://ubuntuhandbook.org/index.php/2016/04/weather-indicator-desktop-widget-ubuntu-16-04/) - Ubuntu平台下的天气指示器小部件。![Freeware][Freeware Icon]
+- [Laverna](https://laverna.cc/) - 支持自定义同步的markdown笔记应用。
+- [Qownnotes](http://www.qownnotes.org/) - 支持owncloud和nextcloud的笔记应用。
 - [NixNote](https://sourceforge.net/projects/nevernote/) - 开源的 Evernote 客户端。[![Open-Source Software][OSS Icon]](https://sourceforge.net/p/nevernote/code/ci/master/tree/) ![Freeware][Freeware Icon]
+- [Tusk](https://github.com/klauscfhq/tusk) - 
+Evernote客户端。[![Open-Source Software][OSS Icon]](https://github.com/klauscfhq/tusk) ![Freeware][Freeware Icon]
 - [Notepadqq](http://notepadqq.altervista.org/wp/) - Notepadqq 是 Linux 桌面下类似于 Notepad++ 的编辑器。[![Open-Source Software][OSS Icon]](https://github.com/notepadqq/notepadqq) ![Freeware][Freeware Icon]
 - [Notes](http://www.get-notes.com/) - Linux 平台下简洁的笔记应用。[![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
 - [Papyrus](http://aseman.co/en/products/papyrus/) - Papyrus 是一个不同的笔记管理器，专注于安全和更友好的用户界面。Papyrus 正在尝试为用户提供更加易用智能的用户界面。 [![Open-Source Software][OSS Icon]](https://github.com/Aseman-Land/Papyrus) ![Freeware][Freeware Icon]
@@ -445,6 +459,7 @@
 - [Privoxy](https://www.privoxy.org/) - Privoxy 是一个无缓存 web 代理工具，它支持高级的过滤功能，用于增强隐私保护、修改 web 页面数据以及 HTTP 头，控制访问以及移除广告和其它惹人厌烦的网络垃圾。[![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/ijbswa/) ![Freeware][Freeware Icon]
 - [ProxyChains](https://github.com/haad/proxychains) - 这是一款很实用的程序，它可以强制将任何程序发起的 TCP 连接重定向到像 TOR 或者任何其它的 SOCKS4, SOCKS5 或者 HTTP(S) 代理，从而实现代理访问。[![Open-Source Software][OSS Icon]](https://github.com/haad/proxychains) ![Freeware][Freeware Icon]
 - [Shadowsocks](https://shadowsocks.org/en/index.html) - 安全 socks5 代理软件（分为服务器和客户端程序），旨在保护你的网络访问。适合国内用户翻越 GFW。[![Open-Source Software][OSS Icon]](https://github.com/shadowsocks/shadowsocks-qt5/releases) ![Freeware][Freeware Icon]
+- [Electron-ssr](https://github.com/erguotou520/electron-ssr) - shadowsockssr图像应用，基于electron开发。[![Open-Source Software][OSS Icon]](https://github.com/erguotou520/electron-ssr/releases) ![Freeware][Freeware Icon]
 
 ### 安全
 - [ClamAV](https://www.clamav.net/) - 反病毒软件包。 ![Freeware][Freeware Icon]
@@ -460,6 +475,7 @@
 - [CrossFTP](http://www.crossftp.com/ftp-client.htm) - CrossFTP 让管理 FTP 相关的任务异常轻松。![Freeware][Freeware Icon]
 - [D-lan](http://www.d-lan.net/) - 免费局域网共享软件。![Freeware][Freeware Icon]
 - [Deluge](http://deluge-torrent.org/) - Deluge 是一个轻量级、免费、跨平台的 BitTorrent 客户端（类似著名的 uTorrent）。[![Open-Source Software][OSS Icon]](http://dev.deluge-torrent.org/wiki/Development#SourceCode)![Freeware][Freeware Icon]
+- [WebTorrent](https://webtorrent.io/) - 种子播放软件，边播边下。
 - [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox 是一个免费服务，它能够将你的照片、文档和视频带到任何地方，并能够轻松地分享它们。![Freeware][Freeware Icon]
 - [Filezilla](https://filezilla-project.org/) - 免费开源的 FTP 软件。 [![Open-Source Software][OSS Icon]](https://filezilla-project.org/sourcecode.php)![Freeware][Freeware Icon]
 - [Flareget](https://flareget.com/) - 全功能、多线程下载管理器和加速器。![Freeware][Freeware Icon]
@@ -475,6 +491,7 @@
 - [uGet](http://ugetdm.com/) - Linux 平台下最好的下载管理器。[![Open-Source Software][OSS Icon]](http://ugetdm.com/contribute/code) ![Freeware][Freeware Icon]
 - [uTorrent](http://www.utorrent.com) - 优雅、高效的 torrent 下载器。 ![Freeware][Freeware Icon]
 - [Vuze](http://www.vuze.com) - Vuze 是一款满足你进行种子下载一切需求的端到端 Bittorrent 客户端。 ![Freeware][Freeware Icon]
+- [Dukto](https://sourceforge.net/projects/dukto/) - 图形化的全平台局域网分享软件，可以传输文件和文字。 ![Freeware][Freeware Icon]
 
 ### 终端
 - [GnomeTerminal](https://help.gnome.org/users/gnome-terminal/stable/) - Linux 平台下广泛预装的终端模拟器。![Freeware][Freeware Icon]
@@ -554,6 +571,8 @@
 - [优客农历](http://www.ubuntukylin.com/application/show.php?lang=cn&id=269) - 支持农历的日历程序。原为 Ubuntu Kylin 打造，可用于 Ubuntu 系统。![Freeware][Freeware Icon]
 - [优客助手](http://www.ubuntukylin.com/application/show.php?lang=cn&id=268) - 为 Ubuntu Kylin （当然可用于 Ubuntu 啦）用户打造的系统级管理与配置工具，具备强大的系统信息展示、一键垃圾清理、系统定制美化等功能，让您的桌面更加流畅、易用而富有个性。![Freeware][Freeware Icon]
 - [优客天气](http://www.ubuntukylin.com/application/show.php?lang=cn&id=270) - 根据国家气象局权威信息发布天气预报，并实时展示关注城市的PM2.5信息。![Freeware][Freeware Icon]
+- [classicmenu-indicator](https://www.florian-diesch.de/software/classicmenu-indicator/) - 状态栏的应用菜单，类似Windows下的开始菜单。
+- [NTFS-3g](https://www.tuxera.com/community/open-source-ntfs-3g/) - 修复双系统下在Linux无法打开Windows目录的问题。
 
 ### 视频
 - [Bomi Player](https://bomi-player.github.io/) - 一款强大易用的多媒体播放器。[![Open-Source Software][OSS Icon]](https://github.com/xylosper/bomi)![Freeware][Freeware Icon]
@@ -589,6 +608,7 @@
 - [Mutt](http://www.mutt.org/) - 一款基于终端的邮件客户端，绑定了 vim 的操作快捷键，拥有极高的灵活度和可定制性。[![Open-Source Software][OSS Icon]](https://dev.mutt.org/hg/mutt/file/tip) ![Freeware][Freeware Icon]
 - [Neofetch](https://github.com/dylanaraps/neofetch/releases) -  一个快速高度可定制的系统信息报告脚本，支持 Linux, macOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd, MINIX, AIX 和 Windows。[![Open-Source Software][OSS Icon]](https://github.com/dylanaraps/neofetch)![Freeware][Freeware Icon]
 - [Newsbeuter](http://newsbeuter.org/) - 一款快速可定制的 RSS 阅读器，绑定了 vim 的快捷键。[![Open-Source Software][OSS Icon]](https://github.com/akrennmair/newsbeuter/tree/master) ![Freeware][Freeware Icon]
+- [QuiteRSS](https://quiterss.org/) - RSS阅读工具。
 - [Pacman4console](https://launchpad.net/ubuntu/+source/pacman4console) - 在终端中玩_食豆小子 Pacman_ 游戏。[![Open-Source Software][OSS Icon]](https://github.com/alexdantas/pacman4console.debian)![Freeware][Freeware Icon]
 - [TheFuck](https://github.com/nvbn/thefuck) - 可以自动纠正你之前输错的终端命令，相当强大。[![Open-Source Software][OSS Icon]](https://github.com/nvbn/thefuck)![Freeware][Freeware Icon]
 - [Tmux](https://tmux.github.io/) - 可以让你轻松切换运行在同一个终端中的几个程序，分离（程序在后台继续运行）和连接它们到一个不同的终端。此外，它还有更多功能等你尝试。[![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)![Freeware][Freeware Icon]
