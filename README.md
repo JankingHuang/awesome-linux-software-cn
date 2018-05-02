@@ -84,6 +84,7 @@
 ## 应用程序
 
 ### 音频
+- [ieaseMusic](https://github.com/trazyn/ieaseMusic) - electron版的网易云音乐
 - [Airtime](https://www.sourcefabric.org/en/airtime/download/) - Airtime 是开源广播软件，它用于时间安排和远程站点管理。[![Open-Source Software][OSS Icon]](https://github.com/sourcefabric/Airtime) ![Freeware][Freeware Icon]
 - [Ardour](https://ardour.org/) -在 Linux 上录音、编辑和混音。 ![Freeware][Freeware Icon]
 - [Audacious](http://audacious-media-player.org/) - 一款开源音频播放器，可以随心所欲地播放你的音乐，而不会从其它任务中窃取掉你的计算机资源。[![Open-Source Software][OSS Icon]](http://audacious-media-player.org/developers) ![Freeware][Freeware Icon]
@@ -118,6 +119,7 @@
 - [网易云音乐](http://music.163.com/#/download) - 网易云音乐官方 Linux 客户端，免费易用，值得体验。![Freeware][Freeware Icon]
 
 ### 聊天客户端
+- [wewechat](https://github.com/trazyn/weweChat) - electron版wechat，UI有点另类，支持发送GIF(不是收藏的表情包哦)和备份数据到google drive
 - [Wine--QQ-Tim](https://github.com/askme765cs/Wine-QQ-TIM) - wine版的QQ和TIM，下载wine和应用包后直接打开应用包可用。
 - [Caprine](https://sindresorhus.com/caprine) - 一款漂亮的 Facebook Messenger 桌面应用。[![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/caprine) ![Freeware][Freeware Icon]
 - [Chatty](http://chatty.github.io/) - Chatty 是一款 Twitch 客户端，相对其它 IRC 客户端，它没有那么复杂但又不失 Twitch 特色，对于喜欢尝鲜的用户不妨试试。[![Open-Source Software][OSS Icon]](https://github.com/chatty/chatty) ![Freeware][Freeware Icon]
@@ -710,6 +712,9 @@ Evernote客户端。[![Open-Source Software][OSS Icon]](https://github.com/klaus
 - [安装 Ubuntu 后你该做什么](http://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts)
 - [Ubuntu 14.04 安装 infinality 字体美化插件](http://www.lulinux.com/archives/211)
 
+
+### Electron App
+[中文官网](http://electronjs.org/apps) - 涵盖了绝大部分electron应用（部分没有添加）
 
 ### 其它发行版
 
